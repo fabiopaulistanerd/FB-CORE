@@ -1,0 +1,7 @@
+# RouterOS exports
+*.backup
+*.auto.rsc
+
+# OS
+.DS_Store
+Thumbs.db
